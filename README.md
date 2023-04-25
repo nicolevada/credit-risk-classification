@@ -1,2 +1,3 @@
 # credit-risk-classification
 supervised-learning-machine
+This analysis aims to evaluate the performance of a logistic regression machine learning model for binary classification. It includes a Python script that imports necessary libraries, reads data, fits the model, generates predictions, and evaluates the model's performance using accuracy, precision, and recall scores. The results of the evaluation show that the model performs well, achieving an overall accuracy of 99.22%, with high precision and recall scores for both classes. Given these findings, the model is recommended for use by the company.
